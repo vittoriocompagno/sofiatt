@@ -6,7 +6,7 @@ type ContactItemProps = {
 function ContactItem({ label, value }: ContactItemProps) {
   return (
     <div className="flex items-start gap-8">
-      <span className="text-xs uppercase tracking-wider text-primary w-20 mt-0.5">{label}</span>
+      <span className="text-xs uppercase tracking-wider text-secondary w-20 mt-0.5">{label}</span>
       <span className="text-sm">{value}</span>
     </div>
   );
