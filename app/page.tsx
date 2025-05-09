@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <main className="min-h-screen relative">
       {/* Copyright e contatti spostati nella sezione di contatto */}
-
+      {/*mao*/}
       {/* Sezioni */}
       <HeroSection />
       <AboutSection />
