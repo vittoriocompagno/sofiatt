@@ -139,7 +139,7 @@ export function HeroSection() {
       {/* Link CONTATTAMI in basso a destra */}
       <div className="absolute bottom-8 right-4 z-20">
         <a 
-          href="mailto:sofia.tuttolomondo@example.com" 
+          href="mailto:sofiatuttolomondo@icloud.com" 
           className="text-primary-foreground hover:text-primary transition-colors duration-300 font-medium text-xs md:text-sm uppercase tracking-wider"
         >
           Contattami
