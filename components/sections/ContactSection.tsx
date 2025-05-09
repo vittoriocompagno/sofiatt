@@ -3,7 +3,7 @@ import { ContactInfo } from '@/components/section/ContactInfo';
 
 export function ContactSection() {
   return (
-    <Section id="contact" zIndex={10} backgroundImageOverlay="/sofi-green.jpg">
+    <Section id="contact" zIndex={10} backgroundVideoOverlay='/bg.mp4'>
       <SectionTitle colorClass="text-primary-foreground">Contattami</SectionTitle>
       <SectionContent>
         <div className="mt-12 text-primary-foreground space-y-6">
